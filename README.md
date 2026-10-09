@@ -4,7 +4,7 @@ This repository contains 42 scenario-specific CSV constraint sets derived from a
 
 ## Source documents
 
-- [Original open-access article](https://doi.org/10.1016/j.prro.2025.11.003) (Puckett et al., 2026; CC BY 4.0).
+- [Original article PDF](Puckett_2026_ASTRO_DVH_Compendium.pdf) ([publisher record and DOI](https://doi.org/10.1016/j.prro.2025.11.003); Puckett et al., 2026; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 - [Appendix E3: compilation of all 25 ASTRO tables](https://www.astro.org/ASTRO/media/ASTRO/Patient%20Care%20and%20Research/PDFs/DVH_Compendium_AppendixE3_Tables_2.pdf) (official ASTRO PDF).
 
 ## Use in MIM
