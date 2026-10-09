@@ -1,6 +1,11 @@
 # ASTRO 2026 DVH constraints for MIM 7.4.5
 
-This repository contains 42 scenario-specific CSV constraint sets derived from all 25 tables in the [ASTRO Dose-Volume Histogram Compendium, Appendix E3](https://www.astro.org/ASTRO/media/ASTRO/Patient%20Care%20and%20Research/PDFs/DVH_Compendium_AppendixE3_Tables_2.pdf). The 42 CSV files are in the repository root. The original ASTRO PDF and patient-specific records are not included.
+This repository contains 42 scenario-specific CSV constraint sets derived from all 25 tables in the [ASTRO Dose-Volume Histogram Compendium, Appendix E3](https://www.astro.org/ASTRO/media/ASTRO/Patient%20Care%20and%20Research/PDFs/DVH_Compendium_AppendixE3_Tables_2.pdf). The 42 CSV files are in the repository root.
+
+## Source documents
+
+- [Original open-access article](https://doi.org/10.1016/j.prro.2025.11.003) (Puckett et al., 2026; CC BY 4.0).
+- [Appendix E3: compilation of all 25 ASTRO tables](https://www.astro.org/ASTRO/media/ASTRO/Patient%20Care%20and%20Research/PDFs/DVH_Compendium_AppendixE3_Tables_2.pdf) (official ASTRO PDF).
 
 ## Use in MIM
 
@@ -24,3 +29,4 @@ Source-to-CSV verification passed for all 42 files and 388 unique Appendix E3 ro
 These are source-specific single-course planning goals, not patient-specific treatment decisions or cumulative reirradiation limits. This repository is an independent conversion and is not an ASTRO or MIM release.
 
 Source: Puckett et al., Dose-Volume Histogram Compendium of Dose Constraints for Treatment Planning (ASTRO, 2026), Appendix E3. Source PDF SHA-256: 434C76BBC7DCE31702BE175482CDDBB22B02BC9CAB1ADCE099629CAB8184F17C.
+
